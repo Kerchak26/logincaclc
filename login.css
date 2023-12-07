@@ -1,0 +1,13 @@
+#header{
+    display: flex;
+    align-items: top;
+    justify-content: space-between;
+}
+#infos{
+    display: block;
+    float: right;
+    background-color: white;
+}
+img{
+    height: 180px;
+}
